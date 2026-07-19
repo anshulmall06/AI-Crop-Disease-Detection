@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+frontend/node_modules/
+
+# Next.js
+.next/
+frontend/.next/
+out/
+
+# Environment files
+.env
+.env.local
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Logs
+*.log
+*.zip
