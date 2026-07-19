@@ -1,4 +1,4 @@
-# 🌱 AI Crop Disease Detection System
+# 🌱 AI Based Crop Disease Detection System
 
 An AI-powered web application that helps farmers identify crop diseases by uploading images of plant leaves. The system predicts the disease, provides confidence scores, and suggests treatment and prevention methods using a machine learning model.
 
@@ -134,7 +134,7 @@ JWT_SECRET_KEY=your_secret_key
 GOOGLE_API_KEY=your_google_api_key
 ```
 
-> **Note:** Never commit your `.env` file to GitHub.
+
 
 ---
 
